@@ -1,0 +1,343 @@
+{
+  "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+  "build" : 67145,
+  "version" : 112,
+  "fonts" : [
+    "D-DIN",
+    "Montserrat-Bold",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue",
+    "D-DIN-Bold",
+    "DINAlternate-Bold",
+    "D-DIN-Italic"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+    "appVersion" : "52.2",
+    "build" : 67145,
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67145"
+  ],
+  "appVersion" : "52.2",
+  "pagesAndArtboards" : {
+    "56B803F3-CEAB-451C-990D-D8F0DBC742B4" : {
+      "name" : "Mobile",
+      "artboards" : {
+        "524AF5C7-F279-4611-97A8-68F0DEC6358B" : {
+          "name" : "4 Board-EnFi-2-0-2-Meeting+Decision"
+        },
+        "2730777A-F5AA-4D7E-92C3-2A77C9A7F721" : {
+          "name" : "2 SH-EnFi-2-2-5-Ammending Articles"
+        },
+        "D77C3BCC-B83A-4945-89AE-1819CC07774C" : {
+          "name" : "4 Board-EnFi-2-2-2-Acquired Shares"
+        },
+        "2E92C4BC-09F0-4973-A1D0-388DE38C5C6F" : {
+          "name" : "4 Board-EnFi-2-2-5-2 Notice-SH Extra"
+        },
+        "56417DAC-4410-4405-94D8-51DF9BE1AF70" : {
+          "name" : "2 SH-EnFi-2-2-0-Decision_Type"
+        },
+        "D059C3E0-93F4-43C2-891B-0B03DA21428F" : {
+          "name" : "5 Cap-EnFi-1"
+        },
+        "37327A40-5E31-4B52-9162-0A05FC5FADC1" : {
+          "name" : "4 Board-EnFi-1"
+        },
+        "19910BCE-C608-485E-866E-D6CD6ABCA622" : {
+          "name" : "2 SH-EnFi-2-2-3-2-Authorising Board-Acquire"
+        },
+        "42E293C7-9D7C-4FF3-AE27-745FB51BDA10" : {
+          "name" : "4 Board-EnFi-2-2-3-Election Chairman"
+        },
+        "E854B489-C22F-465F-8489-8ED6E67CB0B6" : {
+          "name" : "2 SH-EnFi-2-0-2-Meeting+Decision"
+        },
+        "23F66A7F-948D-4214-BAFF-DE7B6BC32C98" : {
+          "name" : "4 Board-EnFi-2-2-1-Issue of Shares"
+        },
+        "A9B41587-ADE8-4394-B791-D49701BBEB6E" : {
+          "name" : "2 SH-EnFi-2-2-2-Acquisition of Shares"
+        },
+        "145BD8F0-97E4-4407-927E-457C7FA34392" : {
+          "name" : "2 SH-EnFi-2-2-7-Other"
+        },
+        "3011A871-682D-4A7E-9821-A47BCC0CDDD5" : {
+          "name" : "4 Board-EnFi-2-2-5-1 Notice-SH Annual"
+        },
+        "54F3DE98-7E52-4B86-B5B6-D99F9A5C0B53" : {
+          "name" : "1 Setttings-EnFi-1"
+        },
+        "5140A97A-1E23-4FEB-951E-F4553BD0EE6C" : {
+          "name" : "4 Board-EnFi-2-2-0-Decision_Type"
+        },
+        "34FA589D-7388-4C46-9856-F6D7C804661C" : {
+          "name" : "4 Board-EnFi-2-2-6-Other"
+        },
+        "8233641F-D4A3-4CAE-9741-B963BBE9D3DC" : {
+          "name" : "2 SH-EnFi-2-2-6-Annual Meeting"
+        },
+        "749A7EE1-1230-4F42-A1DF-B4FEC0614EC5" : {
+          "name" : "4 Board-EnFi-2-2-4-Procuration"
+        },
+        "75EEFFEA-87AC-4AAA-AB4E-869BE5E80E4E" : {
+          "name" : "2 SH-EnFi-3-1-SH_Present"
+        },
+        "997A9035-A90F-45B5-B5C6-0C98040FB4AA" : {
+          "name" : "2 SH-EnFi-2-2-4-Election Board"
+        },
+        "834BC37F-3AD3-406E-A13D-95DA041F1D8E" : {
+          "name" : "2 SH-EnFi-2-2-3-1-Authorising Board-Issue"
+        },
+        "C621FBCC-4D6A-49B3-B1EF-2E31DAEB7A16" : {
+          "name" : "2 SH-EnFi-3-Preview"
+        },
+        "F4C3640E-E336-4047-9585-BBF14B79CFCE" : {
+          "name" : "1 Overview-EnFi-1-Expand"
+        },
+        "5E2750C5-15FE-44E4-8592-85692B60D92C" : {
+          "name" : "2 SH-EnFi-1-Expand"
+        },
+        "EF35075D-96CA-40B0-9018-418A007574CF" : {
+          "name" : "3 Corp-EnFi-1"
+        },
+        "F4E6BEDA-7337-425F-9177-EB1CD4A9923E" : {
+          "name" : "4 Board-EnFi-1-Expand"
+        },
+        "BE4E3EDE-146B-4234-BC47-C25840C4DF0A" : {
+          "name" : "2 SH-EnFi-2-0-1-New_Meeting"
+        },
+        "A36E9E95-60A7-47F2-B98A-F75546F52B42" : {
+          "name" : "4 Board-EnFi-3-2-Share Class"
+        },
+        "DDADD3E0-D772-4DBA-A18C-B999CDFE3BC8" : {
+          "name" : "4 Board-EnFi-2-0-1-New_Meeting"
+        },
+        "4B4905E7-B234-4F91-A32D-A2924207B6B7" : {
+          "name" : "2 SH-EnFi-3-2-Share Class"
+        },
+        "A6300023-4EE4-4E89-9AB2-9AECAE5CB331" : {
+          "name" : "4 Board-EnFi-3-1-Board Member"
+        },
+        "46E716A8-FF7B-4A29-A4CA-ED628FB9BBE3" : {
+          "name" : "1 Overview-EnFi-1"
+        },
+        "D33C60AA-F3B8-4356-BE14-35C821223CC5" : {
+          "name" : "2 SH-EnFi-2-2-1-Issue of Shares"
+        },
+        "87326D8A-3A27-4B36-BC8F-6B060F63D97E" : {
+          "name" : "2 SH-EnFi-1"
+        },
+        "B63FA7AF-8F83-4D52-B9A1-FD0DF43D8B40" : {
+          "name" : "TODO"
+        },
+        "A17AE4DA-DF3B-4FE5-8EB4-25BE03267163" : {
+          "name" : "0 Splash Screen"
+        }
+      }
+    },
+    "EC80554C-243D-468C-AB2D-4D6C6944323B" : {
+      "name" : "Symbols",
+      "artboards" : {
+        "80D30854-560C-4C80-9EF2-C4FE39E03E68" : {
+          "name" : "Icon \/ Arrow \/ Up"
+        },
+        "23180072-3C1D-4F3A-AC8F-44E6993DE579" : {
+          "name" : "Icon \/ Euro"
+        },
+        "1741FB32-DB70-43F2-A372-7525384FF298" : {
+          "name" : "Form \/  List End"
+        },
+        "23DCAD34-DEC7-474C-8170-097B7C1E6478" : {
+          "name" : "Logo \/ Mix"
+        },
+        "DCEE2C33-608F-46F1-9801-19F0BFECF79B" : {
+          "name" : "Form \/ List Sub-Heading"
+        },
+        "8936BB48-5744-4BD0-AC44-CD01A3B326DB" : {
+          "name" : "Input \/ Numeral \/ Focus"
+        },
+        "E7648587-AE15-4A98-BB8F-FE626A0F4A9A" : {
+          "name" : "Icon \/ Shares"
+        },
+        "BE8FF60C-6DEE-4AFB-84E6-18A70FB9A432" : {
+          "name" : "List \/ Checkbox \/ Light"
+        },
+        "C0B2D5A0-5962-4C38-97CB-0B41CE4C3D3F" : {
+          "name" : "Logo \/ Small"
+        },
+        "59BFDDDD-EC65-4D7C-91F2-0D019E28DC50" : {
+          "name" : "Form \/ Search"
+        },
+        "0735F3F0-2F80-4B14-B72D-51F92FCB477A" : {
+          "name" : "Icon \/ Send"
+        },
+        "71D9A6C8-11A8-4EE1-8C9F-D10970D46F13" : {
+          "name" : "App \/ Logo PocketInc"
+        },
+        "65B271FD-E61F-4B68-96A6-911FC17FF849" : {
+          "name" : "Header \/ Bar - Popup"
+        },
+        "013CFF89-D5F9-4CBA-821C-ADA1469BBC48" : {
+          "name" : "App \/ Logo PocketInc"
+        },
+        "9297604B-3900-472F-B649-B41DCD384D5B" : {
+          "name" : "Icon \/ Search"
+        },
+        "A977EDC2-71F5-49B6-892A-29ADC0BE7585" : {
+          "name" : "Icon \/ Arrow \/ Right"
+        },
+        "DFD95B19-8910-47E4-BD88-B9CC0C994BDD" : {
+          "name" : "Form \/ List Heading"
+        },
+        "313E3B23-9E16-46A0-A602-24A6AEC9A48D" : {
+          "name" : "Icon \/ Calendar"
+        },
+        "64099D32-DBEE-43CE-9765-78ABA9E254A8" : {
+          "name" : "Form \/ Button"
+        },
+        "EEE5F37E-9E56-432A-B613-64E6AFBFB5FE" : {
+          "name" : "Icon \/ Tune \/ Filled"
+        },
+        "540D2BBF-0CF7-4DD2-93C3-5C429C474578" : {
+          "name" : "Icon \/ Radio \/ Tick"
+        },
+        "7FAB9481-F2E5-4B9B-AA20-9155CB873091" : {
+          "name" : "Icon \/ Checkbox \/ UnTicked"
+        },
+        "9233DBA4-EBEF-4F6F-BAD2-6BDF91C29FD0" : {
+          "name" : "Icon \/ Circle \/ Filled"
+        },
+        "1E8CD298-B59B-4BF0-9AC9-CCD9A2BF4853" : {
+          "name" : "_ \/ Button \/ InActive"
+        },
+        "BA3D53F7-0AF1-46CF-BEA5-1F0E88F6CC54" : {
+          "name" : "Logo \/ Caps"
+        },
+        "310A9528-43DF-474F-94D8-8A19F3F2188E" : {
+          "name" : "_ \/ Scrollbar"
+        },
+        "D0C3574E-CD60-4F97-807C-23CE3F39796F" : {
+          "name" : "Icon \/ Radio \/ Selected"
+        },
+        "40F7DE86-5AB8-4596-84A4-2A65233E9F89" : {
+          "name" : "Icon \/ Arrow \/ Down"
+        },
+        "C5B712C1-9190-4402-BB13-9D4ADD480EA4" : {
+          "name" : "List \/ SortByYear"
+        },
+        "E431C57C-C0C8-4969-B8D8-5743EF4A207E" : {
+          "name" : "Header \/ Right Button"
+        },
+        "825D53B1-7967-4F85-A5B0-BDEFD2F80788" : {
+          "name" : "Header \/ Left Button"
+        },
+        "B8C9508A-C5FE-4575-A35D-31696B05E939" : {
+          "name" : "Footer \/ Button"
+        },
+        "C0E020B2-3701-46BA-BDBF-6463C2056736" : {
+          "name" : "Input \/ Numeral \/ Placeholder"
+        },
+        "F5450E0E-2B9D-41D5-B2F5-F9729764C2FE" : {
+          "name" : "Icon \/ Swap"
+        },
+        "28664AE1-88EF-43BA-8460-BFBF217F263A" : {
+          "name" : "Icon \/ Corporate"
+        },
+        "C90599E4-91E3-4790-B506-26E1EF3337A4" : {
+          "name" : "Footer \/ Bar"
+        },
+        "10FF955D-FDEE-4C2A-B2F0-000838C18CAC" : {
+          "name" : "_ \/ Document Mockup"
+        },
+        "EB8DC1AE-F5A5-40C9-BB4F-B37E318CB588" : {
+          "name" : "Icon \/ Radio \/ Not Selected"
+        },
+        "136B327A-9829-4ABC-B7E9-A3508E756E9F" : {
+          "name" : "Icon \/ Arrow \/ Left"
+        },
+        "877C2C0B-B9C4-4972-84BD-A6BE8F5B6717" : {
+          "name" : "_ \/ Learn more"
+        },
+        "13C53DF6-DC4F-41BA-8E80-CA1C947B4690" : {
+          "name" : "Icon \/ Poll \/ Filled"
+        },
+        "C09E2BB7-4A27-47BF-ADE8-F517C0079BF1" : {
+          "name" : "Icon \/ Cross \/ Filled"
+        },
+        "BF798228-BFDD-4774-B8E0-C40AF06E37DD" : {
+          "name" : "Icon \/ Cross \/ Outline"
+        },
+        "13884D86-59B3-46C8-897C-EE2791A75379" : {
+          "name" : "App \/ Logo Laillinen"
+        },
+        "9C0609C0-C768-4E47-94FE-9208956E28C4" : {
+          "name" : "Area - BG"
+        },
+        "5BFACB60-DF3B-4679-9F7C-FDEE983297E6" : {
+          "name" : "Icon \/ Checkbox \/ Ticked"
+        },
+        "7F93074C-EBB6-44CA-9526-24A795BFF2BD" : {
+          "name" : "Icon \/ Plus \/ Filled"
+        },
+        "D73C783C-E96D-4AB0-B2F9-4A100D2AF7E7" : {
+          "name" : "App \/ Launch Icon"
+        },
+        "8B39F64A-2D63-4D5B-BD53-192C856F1062" : {
+          "name" : "Form \/ Segmented Control \/ 2 Buttons"
+        },
+        "B2BB04C1-F2FC-4667-B458-C143211C7A46" : {
+          "name" : "Header \/ Bar"
+        },
+        "F8DBB8A7-9E9A-43F3-9BAA-0F9C278C4E30" : {
+          "name" : "Icon \/ Plus \/ Outline"
+        },
+        "BE5DE9E2-99B9-4127-AFAA-0E5046DE91B3" : {
+          "name" : "Form \/ Input"
+        },
+        "779840BD-91D6-4F46-AE79-28E7B1B6FE32" : {
+          "name" : "Icon \/ View"
+        },
+        "744B9621-A79D-40F7-A418-CAC60CF8331D" : {
+          "name" : "Icon \/ Article"
+        },
+        "600442A4-9779-4CCB-9481-BF4F0660503A" : {
+          "name" : "Footer \/ Item"
+        },
+        "FCD32364-31C4-4D54-BF36-9E3789C82BC4" : {
+          "name" : "Input \/ Text \/ Focus"
+        },
+        "2DD157BB-4EA6-47ED-AB8E-28A127432CB1" : {
+          "name" : "Input \/ Text \/ Placeholder"
+        },
+        "646FA520-FC23-49EE-B637-8341537D0B0B" : {
+          "name" : "List \/ Checkbox \/ Dark"
+        },
+        "39E10FF9-B5B1-46A0-9168-FE6B142E376D" : {
+          "name" : "_ \/ Button \/ Active"
+        },
+        "EC13EF1D-0110-40DF-8B68-8131038F7241" : {
+          "name" : "Icon \/ Clock"
+        },
+        "243B5D86-D421-4489-ADAE-477F8AC75073" : {
+          "name" : "List \/ Section"
+        },
+        "C44C6911-DBF7-4D34-999A-102042600978" : {
+          "name" : "List \/ Checkbox \/ Select All"
+        },
+        "B8E09FD1-01B7-4DDD-B506-07112B454ED2" : {
+          "name" : "Icon \/ Cap"
+        }
+      }
+    }
+  }
+}
