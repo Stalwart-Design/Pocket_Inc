@@ -35334,7 +35334,7 @@
                           "blue" : 1,
                           "green" : 1
                         },
-                        "kerning" : 1,
+                        "kerning" : 0.5,
                         "textStyleVerticalAlignmentKey" : 1,
                         "paragraphStyle" : {
                           "allowsDefaultTighteningForTruncation" : 0,
@@ -35345,7 +35345,7 @@
                     },
                     "endMarkerType" : 0
                   },
-                  "glyphBounds" : "{{58, 1}, {41, 13}}",
+                  "glyphBounds" : "{{60, 1}, {39, 13}}",
                   "frame" : {
                     "_class" : "rect",
                     "height" : 30,
@@ -35384,7 +35384,7 @@
                   "attributedString" : {
                     "attributes" : [
                       {
-                        "length" : 5,
+                        "length" : 4,
                         "_class" : "stringAttribute",
                         "attributes" : {
                           "MSAttributedStringFontAttribute" : {
@@ -35401,7 +35401,7 @@
                             "blue" : 1,
                             "green" : 1
                           },
-                          "kerning" : 1,
+                          "kerning" : 0.5,
                           "textStyleVerticalAlignmentKey" : 1,
                           "paragraphStyle" : {
                             "allowsDefaultTighteningForTruncation" : 0,
@@ -35410,6 +35410,34 @@
                           }
                         },
                         "location" : 0
+                      },
+                      {
+                        "length" : 1,
+                        "_class" : "stringAttribute",
+                        "attributes" : {
+                          "MSAttributedStringFontAttribute" : {
+                            "attributes" : {
+                              "name" : "D-DIN-Bold",
+                              "size" : 16
+                            },
+                            "_class" : "fontDescriptor"
+                          },
+                          "MSAttributedStringColorAttribute" : {
+                            "red" : 1,
+                            "_class" : "color",
+                            "alpha" : 1,
+                            "blue" : 1,
+                            "green" : 1
+                          },
+                          "kerning" : 0,
+                          "textStyleVerticalAlignmentKey" : 1,
+                          "paragraphStyle" : {
+                            "allowsDefaultTighteningForTruncation" : 0,
+                            "_class" : "paragraphStyle",
+                            "alignment" : 2
+                          }
+                        },
+                        "location" : 4
                       }
                     ],
                     "_class" : "attributedString",
@@ -35554,7 +35582,7 @@
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 4126,
+      "changeIdentifier" : 4142,
       "booleanOperation" : 0,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",

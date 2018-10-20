@@ -6836,7 +6836,7 @@
                 "blue" : 1,
                 "green" : 1
               },
-              "kerning" : 1,
+              "kerning" : 0.5,
               "textStyleVerticalAlignmentKey" : 1,
               "paragraphStyle" : {
                 "allowsDefaultTighteningForTruncation" : 0,

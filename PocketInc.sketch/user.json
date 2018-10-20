@@ -23,11 +23,11 @@
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
-  "51FF10BC-5C3D-4C10-941B-F182717D53B2" : {
+  "2F4BB27A-628E-4A42-A366-901DA6DEAB50" : {
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
-  "2F4BB27A-628E-4A42-A366-901DA6DEAB50" : {
+  "51FF10BC-5C3D-4C10-941B-F182717D53B2" : {
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
@@ -43,12 +43,12 @@
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
-  "FE80BDB7-6DC1-447F-BF46-B9201ADE2AA2" : {
-    "scrollOrigin" : "{0, 0}",
-    "zoomValue" : 1
-  },
   "EC80554C-243D-468C-AB2D-4D6C6944323B" : {
     "scrollOrigin" : "{-1078, 261}",
+    "zoomValue" : 2
+  },
+  "FE80BDB7-6DC1-447F-BF46-B9201ADE2AA2" : {
+    "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
   "30C39035-FAD5-409A-882B-455C044DAEBA" : {
@@ -75,11 +75,11 @@
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
-  "BD6E121F-D599-48E1-8F29-FBD6A503628B" : {
+  "3B4A0D62-0BBA-46FE-A1A2-44813BBDB65F" : {
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
-  "3B4A0D62-0BBA-46FE-A1A2-44813BBDB65F" : {
+  "BD6E121F-D599-48E1-8F29-FBD6A503628B" : {
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
@@ -97,7 +97,7 @@
   },
   "56B803F3-CEAB-451C-990D-D8F0DBC742B4" : {
     "scrollOrigin" : "{354, -602}",
-    "zoomValue" : 0.5
+    "zoomValue" : 0.125
   },
   "C3ADEDBE-8223-4D27-96E9-78AAB0C6427A" : {
     "scrollOrigin" : "{0, 0}",
@@ -127,7 +127,7 @@
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
-  "C766FA13-C491-4B2F-A2D9-8C3F2D5EC6F9" : {
+  "0C130CCD-BBEE-4E46-882F-C1561379DAEE" : {
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
@@ -135,7 +135,7 @@
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
-  "0C130CCD-BBEE-4E46-882F-C1561379DAEE" : {
+  "C766FA13-C491-4B2F-A2D9-8C3F2D5EC6F9" : {
     "scrollOrigin" : "{0, 0}",
     "zoomValue" : 1
   },
