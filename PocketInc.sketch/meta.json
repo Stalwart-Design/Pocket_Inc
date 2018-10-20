@@ -1,33 +1,5 @@
 {
   "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-  "build" : 67145,
-  "version" : 112,
-  "fonts" : [
-    "D-DIN",
-    "Montserrat-Bold",
-    "HelveticaNeue-Medium",
-    "HelveticaNeue",
-    "D-DIN-Bold",
-    "DINAlternate-Bold",
-    "D-DIN-Italic"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-    "appVersion" : "52.2",
-    "build" : 67145,
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67145"
-  ],
-  "appVersion" : "52.2",
   "pagesAndArtboards" : {
     "56B803F3-CEAB-451C-990D-D8F0DBC742B4" : {
       "name" : "Mobile",
@@ -38,35 +10,35 @@
         "2730777A-F5AA-4D7E-92C3-2A77C9A7F721" : {
           "name" : "2 SH-EnFi-2-2-5-Ammending Articles"
         },
-        "D77C3BCC-B83A-4945-89AE-1819CC07774C" : {
-          "name" : "4 Board-EnFi-2-2-2-Acquired Shares"
-        },
         "2E92C4BC-09F0-4973-A1D0-388DE38C5C6F" : {
           "name" : "4 Board-EnFi-2-2-5-2 Notice-SH Extra"
         },
+        "D77C3BCC-B83A-4945-89AE-1819CC07774C" : {
+          "name" : "4 Board-EnFi-2-2-2-Acquired Shares"
+        },
         "56417DAC-4410-4405-94D8-51DF9BE1AF70" : {
-          "name" : "2 SH-EnFi-2-2-0-Decision_Type"
+          "name" : "2 SH-EnFi-3-0-Decision_Type"
         },
         "D059C3E0-93F4-43C2-891B-0B03DA21428F" : {
           "name" : "5 Cap-EnFi-1"
         },
-        "37327A40-5E31-4B52-9162-0A05FC5FADC1" : {
-          "name" : "4 Board-EnFi-1"
-        },
         "19910BCE-C608-485E-866E-D6CD6ABCA622" : {
           "name" : "2 SH-EnFi-2-2-3-2-Authorising Board-Acquire"
+        },
+        "37327A40-5E31-4B52-9162-0A05FC5FADC1" : {
+          "name" : "4 Board-EnFi-1"
         },
         "42E293C7-9D7C-4FF3-AE27-745FB51BDA10" : {
           "name" : "4 Board-EnFi-2-2-3-Election Chairman"
         },
-        "E854B489-C22F-465F-8489-8ED6E67CB0B6" : {
-          "name" : "2 SH-EnFi-2-0-2-Meeting+Decision"
+        "A9B41587-ADE8-4394-B791-D49701BBEB6E" : {
+          "name" : "2 SH-EnFi-2-2-2-Acquisition of Shares"
         },
         "23F66A7F-948D-4214-BAFF-DE7B6BC32C98" : {
           "name" : "4 Board-EnFi-2-2-1-Issue of Shares"
         },
-        "A9B41587-ADE8-4394-B791-D49701BBEB6E" : {
-          "name" : "2 SH-EnFi-2-2-2-Acquisition of Shares"
+        "8233641F-D4A3-4CAE-9741-B963BBE9D3DC" : {
+          "name" : "2 SH-EnFi-2-2-6-Annual Meeting"
         },
         "145BD8F0-97E4-4407-927E-457C7FA34392" : {
           "name" : "2 SH-EnFi-2-2-7-Other"
@@ -74,17 +46,17 @@
         "3011A871-682D-4A7E-9821-A47BCC0CDDD5" : {
           "name" : "4 Board-EnFi-2-2-5-1 Notice-SH Annual"
         },
-        "54F3DE98-7E52-4B86-B5B6-D99F9A5C0B53" : {
-          "name" : "1 Setttings-EnFi-1"
-        },
-        "5140A97A-1E23-4FEB-951E-F4553BD0EE6C" : {
-          "name" : "4 Board-EnFi-2-2-0-Decision_Type"
-        },
         "34FA589D-7388-4C46-9856-F6D7C804661C" : {
           "name" : "4 Board-EnFi-2-2-6-Other"
         },
-        "8233641F-D4A3-4CAE-9741-B963BBE9D3DC" : {
-          "name" : "2 SH-EnFi-2-2-6-Annual Meeting"
+        "5140A97A-1E23-4FEB-951E-F4553BD0EE6C" : {
+          "name" : "4 Board-EnFi-3-0-Decision_Type"
+        },
+        "54F3DE98-7E52-4B86-B5B6-D99F9A5C0B53" : {
+          "name" : "1 Setttings-EnFi-1"
+        },
+        "E854B489-C22F-465F-8489-8ED6E67CB0B6" : {
+          "name" : "2 SH-EnFi-2-0-2-Meeting+Decision"
         },
         "749A7EE1-1230-4F42-A1DF-B4FEC0614EC5" : {
           "name" : "4 Board-EnFi-2-2-4-Procuration"
@@ -119,8 +91,8 @@
         "A36E9E95-60A7-47F2-B98A-F75546F52B42" : {
           "name" : "4 Board-EnFi-3-2-Share Class"
         },
-        "DDADD3E0-D772-4DBA-A18C-B999CDFE3BC8" : {
-          "name" : "4 Board-EnFi-2-0-1-New_Meeting"
+        "46E716A8-FF7B-4A29-A4CA-ED628FB9BBE3" : {
+          "name" : "1 Overview-EnFi-1"
         },
         "4B4905E7-B234-4F91-A32D-A2924207B6B7" : {
           "name" : "2 SH-EnFi-3-2-Share Class"
@@ -128,8 +100,8 @@
         "A6300023-4EE4-4E89-9AB2-9AECAE5CB331" : {
           "name" : "4 Board-EnFi-3-1-Board Member"
         },
-        "46E716A8-FF7B-4A29-A4CA-ED628FB9BBE3" : {
-          "name" : "1 Overview-EnFi-1"
+        "DDADD3E0-D772-4DBA-A18C-B999CDFE3BC8" : {
+          "name" : "4 Board-EnFi-2-0-1-New_Meeting"
         },
         "D33C60AA-F3B8-4356-BE14-35C821223CC5" : {
           "name" : "2 SH-EnFi-2-2-1-Issue of Shares"
@@ -166,14 +138,14 @@
         "8936BB48-5744-4BD0-AC44-CD01A3B326DB" : {
           "name" : "Input \/ Numeral \/ Focus"
         },
-        "E7648587-AE15-4A98-BB8F-FE626A0F4A9A" : {
-          "name" : "Icon \/ Shares"
-        },
         "BE8FF60C-6DEE-4AFB-84E6-18A70FB9A432" : {
           "name" : "List \/ Checkbox \/ Light"
         },
         "C0B2D5A0-5962-4C38-97CB-0B41CE4C3D3F" : {
           "name" : "Logo \/ Small"
+        },
+        "E7648587-AE15-4A98-BB8F-FE626A0F4A9A" : {
+          "name" : "Icon \/ Shares"
         },
         "59BFDDDD-EC65-4D7C-91F2-0D019E28DC50" : {
           "name" : "Form \/ Search"
@@ -184,11 +156,11 @@
         "71D9A6C8-11A8-4EE1-8C9F-D10970D46F13" : {
           "name" : "App \/ Logo PocketInc"
         },
-        "65B271FD-E61F-4B68-96A6-911FC17FF849" : {
-          "name" : "Header \/ Bar - Popup"
-        },
         "013CFF89-D5F9-4CBA-821C-ADA1469BBC48" : {
           "name" : "App \/ Logo PocketInc"
+        },
+        "65B271FD-E61F-4B68-96A6-911FC17FF849" : {
+          "name" : "Header \/ Bar - Popup"
         },
         "9297604B-3900-472F-B649-B41DCD384D5B" : {
           "name" : "Icon \/ Search"
@@ -196,17 +168,20 @@
         "A977EDC2-71F5-49B6-892A-29ADC0BE7585" : {
           "name" : "Icon \/ Arrow \/ Right"
         },
-        "DFD95B19-8910-47E4-BD88-B9CC0C994BDD" : {
-          "name" : "Form \/ List Heading"
-        },
         "313E3B23-9E16-46A0-A602-24A6AEC9A48D" : {
           "name" : "Icon \/ Calendar"
+        },
+        "DFD95B19-8910-47E4-BD88-B9CC0C994BDD" : {
+          "name" : "Form \/ List Heading"
         },
         "64099D32-DBEE-43CE-9765-78ABA9E254A8" : {
           "name" : "Form \/ Button"
         },
         "EEE5F37E-9E56-432A-B613-64E6AFBFB5FE" : {
           "name" : "Icon \/ Tune \/ Filled"
+        },
+        "1E8CD298-B59B-4BF0-9AC9-CCD9A2BF4853" : {
+          "name" : "_ \/ Button \/ InActive"
         },
         "540D2BBF-0CF7-4DD2-93C3-5C429C474578" : {
           "name" : "Icon \/ Radio \/ Tick"
@@ -216,9 +191,6 @@
         },
         "9233DBA4-EBEF-4F6F-BAD2-6BDF91C29FD0" : {
           "name" : "Icon \/ Circle \/ Filled"
-        },
-        "1E8CD298-B59B-4BF0-9AC9-CCD9A2BF4853" : {
-          "name" : "_ \/ Button \/ InActive"
         },
         "BA3D53F7-0AF1-46CF-BEA5-1F0E88F6CC54" : {
           "name" : "Logo \/ Caps"
@@ -298,11 +270,11 @@
         "B2BB04C1-F2FC-4667-B458-C143211C7A46" : {
           "name" : "Header \/ Bar"
         },
-        "F8DBB8A7-9E9A-43F3-9BAA-0F9C278C4E30" : {
-          "name" : "Icon \/ Plus \/ Outline"
-        },
         "BE5DE9E2-99B9-4127-AFAA-0E5046DE91B3" : {
           "name" : "Form \/ Input"
+        },
+        "F8DBB8A7-9E9A-43F3-9BAA-0F9C278C4E30" : {
+          "name" : "Icon \/ Plus \/ Outline"
         },
         "779840BD-91D6-4F46-AE79-28E7B1B6FE32" : {
           "name" : "Icon \/ View"
@@ -339,5 +311,33 @@
         }
       }
     }
-  }
+  },
+  "version" : 112,
+  "fonts" : [
+    "D-DIN",
+    "Montserrat-Bold",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue",
+    "D-DIN-Bold",
+    "DINAlternate-Bold",
+    "D-DIN-Italic"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67145,
+    "appVersion" : "52.2",
+    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67145"
+  ],
+  "appVersion" : "52.2",
+  "build" : 67145
 }
