@@ -1,5 +1,33 @@
 {
   "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+  "build" : 67145,
+  "version" : 112,
+  "fonts" : [
+    "D-DIN",
+    "Montserrat-Bold",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue",
+    "D-DIN-Bold",
+    "DINAlternate-Bold",
+    "D-DIN-Italic"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67145,
+    "appVersion" : "52.2",
+    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67145"
+  ],
+  "appVersion" : "52.2",
   "pagesAndArtboards" : {
     "56B803F3-CEAB-451C-990D-D8F0DBC742B4" : {
       "name" : "Mobile",
@@ -332,33 +360,5 @@
         }
       }
     }
-  },
-  "version" : 112,
-  "fonts" : [
-    "D-DIN",
-    "Montserrat-Bold",
-    "HelveticaNeue-Medium",
-    "HelveticaNeue",
-    "D-DIN-Bold",
-    "DINAlternate-Bold",
-    "D-DIN-Italic"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "build" : 67145,
-    "appVersion" : "52.2",
-    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67145"
-  ],
-  "appVersion" : "52.2",
-  "build" : 67145
+  }
 }

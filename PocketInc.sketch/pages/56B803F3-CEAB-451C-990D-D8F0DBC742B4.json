@@ -2633,7 +2633,7 @@
         "width" : 375
       },
       "do_objectID" : "2E92C4BC-09F0-4973-A1D0-388DE38C5C6F",
-      "hasClickThrough" : false,
+      "hasClickThrough" : true,
       "exportOptions" : {
         "shouldTrim" : false,
         "includedLayerIds" : [
@@ -2647,7 +2647,7 @@
       },
       "hasBackgroundColor" : true,
       "includeInCloudUpload" : true,
-      "layerListExpandedType" : 1,
+      "layerListExpandedType" : 0,
       "backgroundColor" : {
         "red" : 0.94901960784313721,
         "_class" : "color",
@@ -3808,6 +3808,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -4586,7 +4591,7 @@
         "y" : 2000
       },
       "do_objectID" : "3011A871-682D-4A7E-9821-A47BCC0CDDD5",
-      "hasClickThrough" : false,
+      "hasClickThrough" : true,
       "exportOptions" : {
         "shouldTrim" : false,
         "do_objectID" : "6FFAC6DD-A0BC-4DB7-92A4-302ABA1EACD1",
@@ -4601,7 +4606,7 @@
       },
       "hasBackgroundColor" : true,
       "includeInCloudUpload" : true,
-      "layerListExpandedType" : 1,
+      "layerListExpandedType" : 0,
       "backgroundColor" : {
         "do_objectID" : "FA9E13A3-8E34-4D56-9620-A0C58C030B95",
         "red" : 0.94901960784313721,
@@ -5573,6 +5578,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -7661,7 +7671,7 @@
         "width" : 375
       },
       "do_objectID" : "D77C3BCC-B83A-4945-89AE-1819CC07774C",
-      "hasClickThrough" : false,
+      "hasClickThrough" : true,
       "exportOptions" : {
         "shouldTrim" : false,
         "includedLayerIds" : [
@@ -7675,7 +7685,7 @@
       },
       "hasBackgroundColor" : true,
       "includeInCloudUpload" : true,
-      "layerListExpandedType" : 1,
+      "layerListExpandedType" : 0,
       "backgroundColor" : {
         "red" : 0.94901960784313721,
         "_class" : "color",
@@ -7957,6 +7967,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -8634,6 +8649,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -9379,7 +9399,7 @@
         "width" : 375
       },
       "do_objectID" : "23F66A7F-948D-4214-BAFF-DE7B6BC32C98",
-      "hasClickThrough" : false,
+      "hasClickThrough" : true,
       "exportOptions" : {
         "shouldTrim" : false,
         "includedLayerIds" : [
@@ -9393,7 +9413,7 @@
       },
       "hasBackgroundColor" : true,
       "includeInCloudUpload" : true,
-      "layerListExpandedType" : 1,
+      "layerListExpandedType" : 0,
       "backgroundColor" : {
         "red" : 0.94901960784313721,
         "_class" : "color",
@@ -9577,6 +9597,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -9848,6 +9873,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -16568,7 +16598,7 @@
         "width" : 375
       },
       "do_objectID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
-      "hasClickThrough" : false,
+      "hasClickThrough" : true,
       "exportOptions" : {
         "shouldTrim" : false,
         "includedLayerIds" : [
@@ -16616,12 +16646,12 @@
           },
           "rotation" : 0,
           "frame" : {
-            "x" : 10,
+            "x" : 0,
             "y" : 140,
             "_class" : "rect",
             "constrainProportions" : false,
-            "height" : 160,
-            "width" : 355
+            "height" : 484,
+            "width" : 375
           },
           "do_objectID" : "59B7546C-87C6-4D3C-AFAB-3CB5E14D4910",
           "hasClickThrough" : false,
@@ -16636,7 +16666,7 @@
 
             ]
           },
-          "layerListExpandedType" : 0,
+          "layerListExpandedType" : 2,
           "isFlippedVertical" : false,
           "clippingMaskMode" : 0,
           "name" : "Body",
@@ -16658,8 +16688,8 @@
                 "y" : 0,
                 "_class" : "rect",
                 "constrainProportions" : false,
-                "height" : 160,
-                "width" : 355
+                "height" : 484,
+                "width" : 375
               },
               "do_objectID" : "CBCD43FC-5733-4334-A9DD-00584F655739",
               "hasClickThrough" : false,
@@ -16674,7 +16704,7 @@
 
                 ]
               },
-              "layerListExpandedType" : 0,
+              "layerListExpandedType" : 2,
               "isFlippedVertical" : false,
               "clippingMaskMode" : 0,
               "name" : "List",
@@ -16696,8 +16726,8 @@
                     "y" : 0,
                     "_class" : "rect",
                     "constrainProportions" : false,
-                    "height" : 160,
-                    "width" : 355
+                    "height" : 484,
+                    "width" : 375
                   },
                   "do_objectID" : "DD869DAB-6835-4551-B856-031A485986D1",
                   "hasClickThrough" : false,
@@ -16712,7 +16742,7 @@
 
                     ]
                   },
-                  "layerListExpandedType" : 0,
+                  "layerListExpandedType" : 2,
                   "isFlippedVertical" : false,
                   "clippingMaskMode" : 0,
                   "name" : "Member-list",
@@ -16731,8 +16761,8 @@
                       },
                       "rotation" : 0,
                       "frame" : {
-                        "x" : 0,
-                        "y" : 140,
+                        "x" : 10,
+                        "y" : 464,
                         "_class" : "rect",
                         "constrainProportions" : false,
                         "height" : 20,
@@ -16773,24 +16803,31 @@
                     },
                     {
                       "isFlippedHorizontal" : false,
-                      "verticalSpacing" : 0,
                       "style" : {
+                        "endMarkerType" : 0,
                         "windingRule" : 1,
                         "_class" : "style",
                         "miterLimit" : 10,
                         "startMarkerType" : 0,
-                        "endMarkerType" : 0
+                        "colorControls" : {
+                          "hue" : 0.35657817559907778,
+                          "saturation" : 1.108883647798742,
+                          "brightness" : -0.14735652515723269,
+                          "_class" : "colorControls",
+                          "contrast" : 1,
+                          "isEnabled" : true
+                        }
                       },
                       "rotation" : 0,
                       "frame" : {
                         "x" : 0,
                         "y" : 0,
                         "_class" : "rect",
-                        "constrainProportions" : false,
-                        "height" : 50,
-                        "width" : 355
+                        "constrainProportions" : true,
+                        "height" : 444,
+                        "width" : 375
                       },
-                      "do_objectID" : "3ECCE93C-5C3D-4192-8EC7-2333D2869F32",
+                      "do_objectID" : "B11DAFB0-0427-415C-B4A4-6E2161F9AAE0",
                       "layerListExpandedType" : 0,
                       "exportOptions" : {
                         "shouldTrim" : false,
@@ -16803,135 +16840,27 @@
 
                         ]
                       },
-                      "symbolID" : "FC8E53DC-AA54-426A-B267-0E73CF91FF9F",
+                      "image" : {
+                        "_ref_class" : "MSImageData",
+                        "_class" : "MSJSONFileReference",
+                        "_ref" : "images\/85ac2f81fefa285e7d604c882f91ecacd1b66607.png"
+                      },
                       "isFlippedVertical" : false,
                       "clippingMaskMode" : 0,
-                      "name" : "Bars\/Member",
+                      "name" : "pres5_dribbble",
                       "isVisible" : true,
                       "hasClippingMask" : false,
+                      "clippingMask" : "{{0, 0}, {1, 1}}",
                       "nameIsFixed" : false,
                       "resizingType" : 0,
-                      "horizontalSpacing" : 0,
                       "isLocked" : false,
-                      "scale" : 1,
                       "shouldBreakMaskChain" : false,
+                      "fillReplacesImage" : true,
                       "isFixedToViewport" : false,
-                      "_class" : "symbolInstance",
+                      "_class" : "bitmap",
                       "booleanOperation" : -1,
-                      "overrideValues" : [
-                        {
-                          "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
-                          "_class" : "overrideValue",
-                          "overrideName" : "C3B712D7-CAA3-4A67-9F4D-D985E2B1EE0A\/A78B5D8C-2B85-4266-892C-43204BEECE49_symbolID"
-                        },
-                        {
-                          "value" : "626F28E1-011D-4F60-BFEC-8AC392B25BE1",
-                          "_class" : "overrideValue",
-                          "overrideName" : "C3B712D7-CAA3-4A67-9F4D-D985E2B1EE0A\/A78B5D8C-2B85-4266-892C-43204BEECE49\/130188A3-B00C-4D49-97B2-16E6A532426C_symbolID"
-                        },
-                        {
-                          "value" : "6A800DAB-C61E-4696-987F-C499DB94C665",
-                          "_class" : "overrideValue",
-                          "overrideName" : "EAF866D2-FCF6-48C5-A20B-26D5B6BB158A_symbolID"
-                        },
-                        {
-                          "value" : "Share Capital",
-                          "_class" : "overrideValue",
-                          "overrideName" : "6A19D7BB-E88C-46FB-B70D-897B50762072_stringValue"
-                        },
-                        {
-                          "value" : "D9761550-F7C5-4AD4-BA33-4B5688F8CE8F",
-                          "_class" : "overrideValue",
-                          "overrideName" : "398069BE-109F-4BC0-B1C4-0C11812879F9_layerStyle"
-                        },
-                        {
-                          "value" : "EB7FC8C9-9192-4A73-8D5F-27AFBE1845D3",
-                          "_class" : "overrideValue",
-                          "overrideName" : "EAF866D2-FCF6-48C5-A20B-26D5B6BB158A\/197B703A-3C6B-47E7-9CFD-43ED083782E0_layerStyle"
-                        }
-                      ],
-                      "resizingConstraint" : 15
-                    },
-                    {
-                      "isFlippedHorizontal" : false,
-                      "verticalSpacing" : 0,
-                      "style" : {
-                        "windingRule" : 1,
-                        "_class" : "style",
-                        "miterLimit" : 10,
-                        "startMarkerType" : 0,
-                        "endMarkerType" : 0
-                      },
-                      "rotation" : 0,
-                      "frame" : {
-                        "x" : 0,
-                        "y" : 60,
-                        "_class" : "rect",
-                        "constrainProportions" : false,
-                        "height" : 60,
-                        "width" : 355
-                      },
-                      "do_objectID" : "0FE31465-DD95-4109-8F4F-F2F91B71D11B",
-                      "layerListExpandedType" : 0,
-                      "exportOptions" : {
-                        "shouldTrim" : false,
-                        "includedLayerIds" : [
-
-                        ],
-                        "layerOptions" : 0,
-                        "_class" : "exportOptions",
-                        "exportFormats" : [
-
-                        ]
-                      },
-                      "symbolID" : "FC8E53DC-AA54-426A-B267-0E73CF91FF9F",
-                      "isFlippedVertical" : false,
-                      "clippingMaskMode" : 0,
-                      "name" : "Bars\/Member",
-                      "isVisible" : true,
-                      "hasClippingMask" : false,
-                      "nameIsFixed" : false,
-                      "resizingType" : 0,
-                      "horizontalSpacing" : 0,
-                      "isLocked" : false,
-                      "scale" : 1,
-                      "shouldBreakMaskChain" : false,
-                      "isFixedToViewport" : false,
-                      "_class" : "symbolInstance",
-                      "booleanOperation" : -1,
-                      "overrideValues" : [
-                        {
-                          "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
-                          "_class" : "overrideValue",
-                          "overrideName" : "C3B712D7-CAA3-4A67-9F4D-D985E2B1EE0A\/A78B5D8C-2B85-4266-892C-43204BEECE49_symbolID"
-                        },
-                        {
-                          "value" : "626F28E1-011D-4F60-BFEC-8AC392B25BE1",
-                          "_class" : "overrideValue",
-                          "overrideName" : "C3B712D7-CAA3-4A67-9F4D-D985E2B1EE0A\/A78B5D8C-2B85-4266-892C-43204BEECE49\/130188A3-B00C-4D49-97B2-16E6A532426C_symbolID"
-                        },
-                        {
-                          "value" : "DD32D846-326B-45A7-9209-EA1E1783D279",
-                          "_class" : "overrideValue",
-                          "overrideName" : "EAF866D2-FCF6-48C5-A20B-26D5B6BB158A_symbolID"
-                        },
-                        {
-                          "value" : "Reserve for invested unrestricted equity.",
-                          "_class" : "overrideValue",
-                          "overrideName" : "6A19D7BB-E88C-46FB-B70D-897B50762072_stringValue"
-                        },
-                        {
-                          "value" : "D9761550-F7C5-4AD4-BA33-4B5688F8CE8F",
-                          "_class" : "overrideValue",
-                          "overrideName" : "398069BE-109F-4BC0-B1C4-0C11812879F9_layerStyle"
-                        },
-                        {
-                          "value" : "EB7FC8C9-9192-4A73-8D5F-27AFBE1845D3",
-                          "_class" : "overrideValue",
-                          "overrideName" : "EAF866D2-FCF6-48C5-A20B-26D5B6BB158A\/38A98C97-A389-4D43-B244-F8DFFC701C9C_layerStyle"
-                        }
-                      ],
-                      "resizingConstraint" : 15
+                      "resizingConstraint" : 63,
+                      "intendedDPI" : 72
                     }
                   ],
                   "nameIsFixed" : true,
@@ -17022,12 +16951,12 @@
               "overrideName" : "1BD4D1B3-03ED-45A7-9FBE-C9F4937D040F\/31EA02B2-664F-4CAA-962F-18DBF5A676B0\/90EE5554-BD5C-4683-8F15-9B03B0D516CD_symbolID"
             },
             {
-              "value" : "Term of Authorisation",
+              "value" : "Calendar",
               "_class" : "overrideValue",
               "overrideName" : "0A940221-7EB4-4C4A-B1C1-C9D9F486ECD8_stringValue"
             },
             {
-              "value" : "Valtuutuksen Voimassaoloaika",
+              "value" : "Kalenteri",
               "_class" : "overrideValue",
               "overrideName" : "65E2481B-1CD5-41D1-9F51-32C3FFFCBAD3_stringValue"
             },
@@ -24198,7 +24127,7 @@
       },
       "hasBackgroundColor" : true,
       "includeInCloudUpload" : true,
-      "layerListExpandedType" : 0,
+      "layerListExpandedType" : 1,
       "backgroundColor" : {
         "red" : 0.94901960784313721,
         "_class" : "color",
@@ -28294,14 +28223,8 @@
                           "value" : "2018"
                         },
                         {
-                          "do_objectID" : "F617A6BE-FAF0-4545-9950-B08930703604",
-                          "overrideName" : "828664D2-DD9E-4DE6-97EE-6ADBF2F67A80\/CDF3C8E8-D44E-49A6-9F8C-CAF50D36944A_symbolID",
-                          "_class" : "overrideValue",
-                          "value" : "7CDBBCE7-FD60-4147-8C2F-124E4AAC69D4"
-                        },
-                        {
-                          "do_objectID" : "B51BAD69-12C4-4412-9147-F640DC0F65B6",
-                          "overrideName" : "828664D2-DD9E-4DE6-97EE-6ADBF2F67A80\/CDF3C8E8-D44E-49A6-9F8C-CAF50D36944A\/D304F8CF-D18E-449D-A84C-88F6FD3198BD_layerStyle",
+                          "do_objectID" : "FB871BCA-FC83-4A70-8934-65B94B974ECB",
+                          "overrideName" : "828664D2-DD9E-4DE6-97EE-6ADBF2F67A80\/CDF3C8E8-D44E-49A6-9F8C-CAF50D36944A\/2BF03772-05F1-4921-8CB7-1B5278B9A9BB_layerStyle",
                           "_class" : "overrideValue",
                           "value" : "EB7FC8C9-9192-4A73-8D5F-27AFBE1845D3"
                         }
@@ -28394,14 +28317,8 @@
                           "value" : "2019"
                         },
                         {
-                          "do_objectID" : "CE9E7050-10FC-4BA0-A02A-79157BF8AB47",
-                          "overrideName" : "828664D2-DD9E-4DE6-97EE-6ADBF2F67A80\/CDF3C8E8-D44E-49A6-9F8C-CAF50D36944A_symbolID",
-                          "_class" : "overrideValue",
-                          "value" : "7CDBBCE7-FD60-4147-8C2F-124E4AAC69D4"
-                        },
-                        {
-                          "do_objectID" : "23BFA623-F69D-4870-A076-8335F96E0925",
-                          "overrideName" : "828664D2-DD9E-4DE6-97EE-6ADBF2F67A80\/CDF3C8E8-D44E-49A6-9F8C-CAF50D36944A\/D304F8CF-D18E-449D-A84C-88F6FD3198BD_layerStyle",
+                          "do_objectID" : "38FEEECC-796F-4B6D-9AD4-A83B6811BA93",
+                          "overrideName" : "828664D2-DD9E-4DE6-97EE-6ADBF2F67A80\/CDF3C8E8-D44E-49A6-9F8C-CAF50D36944A\/2BF03772-05F1-4921-8CB7-1B5278B9A9BB_layerStyle",
                           "_class" : "overrideValue",
                           "value" : "EB7FC8C9-9192-4A73-8D5F-27AFBE1845D3"
                         }
@@ -32511,7 +32428,7 @@
         "width" : 375
       },
       "do_objectID" : "834BC37F-3AD3-406E-A13D-95DA041F1D8E",
-      "hasClickThrough" : true,
+      "hasClickThrough" : false,
       "exportOptions" : {
         "shouldTrim" : false,
         "includedLayerIds" : [
@@ -33572,7 +33489,7 @@
         "y" : 2000
       },
       "do_objectID" : "A9B41587-ADE8-4394-B791-D49701BBEB6E",
-      "hasClickThrough" : true,
+      "hasClickThrough" : false,
       "exportOptions" : {
         "shouldTrim" : false,
         "do_objectID" : "E720F992-C1A9-4580-8939-486564E4F50F",
@@ -33871,6 +33788,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -34558,6 +34480,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -35314,7 +35241,7 @@
         "width" : 375
       },
       "do_objectID" : "D33C60AA-F3B8-4356-BE14-35C821223CC5",
-      "hasClickThrough" : true,
+      "hasClickThrough" : false,
       "exportOptions" : {
         "shouldTrim" : false,
         "includedLayerIds" : [
@@ -35518,6 +35445,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
@@ -35817,6 +35749,11 @@
                       "isFixedToViewport" : false,
                       "_class" : "symbolInstance",
                       "booleanOperation" : -1,
+                      "flow" : {
+                        "destinationArtboardID" : "2A137AE4-2A10-4570-BC18-B191B6D078A3",
+                        "_class" : "MSImmutableFlowConnection",
+                        "animationType" : 2
+                      },
                       "overrideValues" : [
                         {
                           "value" : "95ECE014-5011-4E12-82E7-654C744F6EE6",
