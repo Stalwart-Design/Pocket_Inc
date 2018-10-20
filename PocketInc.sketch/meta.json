@@ -1,33 +1,5 @@
 {
   "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-  "build" : 67145,
-  "version" : 112,
-  "fonts" : [
-    "D-DIN",
-    "Montserrat-Bold",
-    "HelveticaNeue-Medium",
-    "HelveticaNeue",
-    "D-DIN-Bold",
-    "DINAlternate-Bold",
-    "D-DIN-Italic"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "build" : 67145,
-    "appVersion" : "52.2",
-    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67145"
-  ],
-  "appVersion" : "52.2",
   "pagesAndArtboards" : {
     "56B803F3-CEAB-451C-990D-D8F0DBC742B4" : {
       "name" : "Mobile",
@@ -114,7 +86,7 @@
           "name" : "2 SH-EnFi-3-8-Preview"
         },
         "CA8F9BD2-1F69-41FE-AF42-B22BF1D1CC7D" : {
-          "name" : "2 SH-EnFi-3-3-Term of Auth"
+          "name" : "2 SH-EnFi-3-7-Suscribers"
         },
         "E854B489-C22F-465F-8489-8ED6E67CB0B6" : {
           "name" : "2 SH-EnFi-2-0-2-Meeting+Decision"
@@ -136,9 +108,6 @@
         },
         "65E9A686-1936-4437-9AC8-AE5E644BCF7F" : {
           "name" : "2 SH-EnFi-3-3-Term of Auth"
-        },
-        "A36E9E95-60A7-47F2-B98A-F75546F52B42" : {
-          "name" : "4 Board-EnFi-3-2-Share Class"
         },
         "46E716A8-FF7B-4A29-A4CA-ED628FB9BBE3" : {
           "name" : "1 Overview-EnFi-1"
@@ -360,5 +329,33 @@
         }
       }
     }
-  }
+  },
+  "version" : 112,
+  "fonts" : [
+    "D-DIN",
+    "Montserrat-Bold",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue",
+    "D-DIN-Bold",
+    "DINAlternate-Bold",
+    "D-DIN-Italic"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67145,
+    "appVersion" : "52.2",
+    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67145"
+  ],
+  "appVersion" : "52.2",
+  "build" : 67145
 }
