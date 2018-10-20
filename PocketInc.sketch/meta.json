@@ -1,33 +1,5 @@
 {
   "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-  "build" : 67145,
-  "version" : 112,
-  "fonts" : [
-    "D-DIN",
-    "Montserrat-Bold",
-    "HelveticaNeue-Medium",
-    "HelveticaNeue",
-    "D-DIN-Bold",
-    "DINAlternate-Bold",
-    "D-DIN-Italic"
-  ],
-  "compatibilityVersion" : 99,
-  "app" : "com.bohemiancoding.sketch3",
-  "autosaved" : 0,
-  "variant" : "NONAPPSTORE",
-  "created" : {
-    "build" : 67145,
-    "appVersion" : "52.2",
-    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
-    "app" : "com.bohemiancoding.sketch3",
-    "compatibilityVersion" : 99,
-    "version" : 112,
-    "variant" : "NONAPPSTORE"
-  },
-  "saveHistory" : [
-    "NONAPPSTORE.67145"
-  ],
-  "appVersion" : "52.2",
   "pagesAndArtboards" : {
     "56B803F3-CEAB-451C-990D-D8F0DBC742B4" : {
       "name" : "Mobile",
@@ -38,6 +10,9 @@
         "2730777A-F5AA-4D7E-92C3-2A77C9A7F721" : {
           "name" : "2 SH-EnFi-2-2-5-Ammending Articles"
         },
+        "B1C7FB0A-8BC7-477E-9678-D9BCAD4B3621" : {
+          "name" : "2 SH-EnFi-3-5-2-Valuation-Acquire"
+        },
         "2E92C4BC-09F0-4973-A1D0-388DE38C5C6F" : {
           "name" : "4 Board-EnFi-2-2-5-2 Notice-SH Extra"
         },
@@ -46,6 +21,9 @@
         },
         "56417DAC-4410-4405-94D8-51DF9BE1AF70" : {
           "name" : "2 SH-EnFi-3-0-Decision_Type"
+        },
+        "B2ED06D8-3291-45E5-BBCE-094613194561" : {
+          "name" : "2 SH-EnFi-3-4-1-Reason-Issue Shares"
         },
         "D059C3E0-93F4-43C2-891B-0B03DA21428F" : {
           "name" : "5 Cap-EnFi-1"
@@ -56,11 +34,14 @@
         "37327A40-5E31-4B52-9162-0A05FC5FADC1" : {
           "name" : "4 Board-EnFi-1"
         },
+        "5B2A274D-638F-4796-BDFC-109C6BEFCCF8" : {
+          "name" : "2 SH-EnFi-3-4-2-Reason-Acquire Shares"
+        },
         "42E293C7-9D7C-4FF3-AE27-745FB51BDA10" : {
           "name" : "4 Board-EnFi-2-2-3-Election Chairman"
         },
-        "A9B41587-ADE8-4394-B791-D49701BBEB6E" : {
-          "name" : "2 SH-EnFi-2-2-2-Acquisition of Shares"
+        "2A137AE4-2A10-4570-BC18-B191B6D078A3" : {
+          "name" : "2 SH-EnFi-3-9-Calendar"
         },
         "23F66A7F-948D-4214-BAFF-DE7B6BC32C98" : {
           "name" : "4 Board-EnFi-2-2-1-Issue of Shares"
@@ -80,11 +61,11 @@
         "5140A97A-1E23-4FEB-951E-F4553BD0EE6C" : {
           "name" : "4 Board-EnFi-3-0-Decision_Type"
         },
+        "1482EC1B-5AB6-413B-8598-26C6B8A7F786" : {
+          "name" : "2 SH-EnFi-3-6-Record Payment"
+        },
         "54F3DE98-7E52-4B86-B5B6-D99F9A5C0B53" : {
           "name" : "1 Setttings-EnFi-1"
-        },
-        "E854B489-C22F-465F-8489-8ED6E67CB0B6" : {
-          "name" : "2 SH-EnFi-2-0-2-Meeting+Decision"
         },
         "749A7EE1-1230-4F42-A1DF-B4FEC0614EC5" : {
           "name" : "4 Board-EnFi-2-2-4-Procuration"
@@ -98,8 +79,17 @@
         "834BC37F-3AD3-406E-A13D-95DA041F1D8E" : {
           "name" : "2 SH-EnFi-2-2-3-1-Authorising Board-Issue"
         },
+        "A9B41587-ADE8-4394-B791-D49701BBEB6E" : {
+          "name" : "2 SH-EnFi-2-2-2-Acquisition of Shares"
+        },
         "C621FBCC-4D6A-49B3-B1EF-2E31DAEB7A16" : {
-          "name" : "2 SH-EnFi-3-Preview"
+          "name" : "2 SH-EnFi-3-8-Preview"
+        },
+        "CA8F9BD2-1F69-41FE-AF42-B22BF1D1CC7D" : {
+          "name" : "2 SH-EnFi-3-3-Term of Auth"
+        },
+        "E854B489-C22F-465F-8489-8ED6E67CB0B6" : {
+          "name" : "2 SH-EnFi-2-0-2-Meeting+Decision"
         },
         "F4C3640E-E336-4047-9585-BBF14B79CFCE" : {
           "name" : "1 Overview-EnFi-1-Expand"
@@ -116,6 +106,9 @@
         "BE4E3EDE-146B-4234-BC47-C25840C4DF0A" : {
           "name" : "2 SH-EnFi-2-0-1-New_Meeting"
         },
+        "65E9A686-1936-4437-9AC8-AE5E644BCF7F" : {
+          "name" : "2 SH-EnFi-3-3-Term of Auth"
+        },
         "A36E9E95-60A7-47F2-B98A-F75546F52B42" : {
           "name" : "4 Board-EnFi-3-2-Share Class"
         },
@@ -128,8 +121,8 @@
         "A6300023-4EE4-4E89-9AB2-9AECAE5CB331" : {
           "name" : "4 Board-EnFi-3-1-Board Member"
         },
-        "DDADD3E0-D772-4DBA-A18C-B999CDFE3BC8" : {
-          "name" : "4 Board-EnFi-2-0-1-New_Meeting"
+        "A7993917-3C5D-4877-86C7-A40640505D3A" : {
+          "name" : "2 SH-EnFi-3-5-1-Valuation-Issue"
         },
         "D33C60AA-F3B8-4356-BE14-35C821223CC5" : {
           "name" : "2 SH-EnFi-2-2-1-Issue of Shares"
@@ -137,8 +130,8 @@
         "87326D8A-3A27-4B36-BC8F-6B060F63D97E" : {
           "name" : "2 SH-EnFi-1"
         },
-        "B63FA7AF-8F83-4D52-B9A1-FD0DF43D8B40" : {
-          "name" : "TODO"
+        "DDADD3E0-D772-4DBA-A18C-B999CDFE3BC8" : {
+          "name" : "4 Board-EnFi-2-0-1-New_Meeting"
         },
         "A17AE4DA-DF3B-4FE5-8EB4-25BE03267163" : {
           "name" : "0 Splash Screen"
@@ -339,5 +332,33 @@
         }
       }
     }
-  }
+  },
+  "version" : 112,
+  "fonts" : [
+    "D-DIN",
+    "Montserrat-Bold",
+    "HelveticaNeue-Medium",
+    "HelveticaNeue",
+    "D-DIN-Bold",
+    "DINAlternate-Bold",
+    "D-DIN-Italic"
+  ],
+  "compatibilityVersion" : 99,
+  "app" : "com.bohemiancoding.sketch3",
+  "autosaved" : 0,
+  "variant" : "NONAPPSTORE",
+  "created" : {
+    "build" : 67145,
+    "appVersion" : "52.2",
+    "commit" : "623a23f2c4848acdbb1a38c2689e571eb73eb823",
+    "app" : "com.bohemiancoding.sketch3",
+    "compatibilityVersion" : 99,
+    "version" : 112,
+    "variant" : "NONAPPSTORE"
+  },
+  "saveHistory" : [
+    "NONAPPSTORE.67145"
+  ],
+  "appVersion" : "52.2",
+  "build" : 67145
 }

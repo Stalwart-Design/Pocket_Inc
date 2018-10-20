@@ -33267,12 +33267,12 @@
               "glyphBounds" : "{{0, 1}, {152, 13}}",
               "frame" : {
                 "_class" : "rect",
-                "height" : 16,
+                "height" : 30,
                 "constrainProportions" : false,
                 "do_objectID" : "D4441BD0-E13D-44D7-8117-948C13EDC2AB",
                 "x" : 50,
                 "width" : 290,
-                "y" : 18
+                "y" : 10
               },
               "do_objectID" : "6A19D7BB-E88C-46FB-B70D-897B50762072",
               "layerListExpandedType" : 0,
@@ -33291,7 +33291,7 @@
               "rotation" : 0,
               "dontSynchroniseWithSymbol" : false,
               "lineSpacingBehaviour" : 2,
-              "textBehaviour" : 1,
+              "textBehaviour" : 2,
               "isFlippedVertical" : false,
               "clippingMaskMode" : 0,
               "name" : "Field",
@@ -33338,7 +33338,7 @@
               "isFixedToViewport" : false,
               "_class" : "text",
               "booleanOperation" : -1,
-              "resizingConstraint" : 47,
+              "resizingConstraint" : 23,
               "automaticallyDrawOnUnderlyingPath" : false
             },
             {
@@ -33419,7 +33419,7 @@
         }
       ],
       "shouldBreakMaskChain" : true,
-      "changeIdentifier" : 981,
+      "changeIdentifier" : 1148,
       "booleanOperation" : -1,
       "includeBackgroundColorInExport" : true,
       "_class" : "symbolMaster",
